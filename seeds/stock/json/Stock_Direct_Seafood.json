@@ -1,0 +1,330 @@
+[
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "33",
+        "Description": "Tilapia: Fillet 140-200gm (800gm nett bag)",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "",
+        "Description": "Squid Tubnes U5  (700gm nett bag)",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "104",
+        "Description": "IQF Cod Fillets 230/280g , 15/box",
+        "Opening_Qty": "11",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "111",
+        "Description": "Salmon: Fillet 1.25-1.65kg skinned & boned (kg)",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "126",
+        "Description": "Mussel Meat (340g)",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "",
+        "Closing_Qty": "3"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "134",
+        "Description": "Smoked Salmon L-Cut",
+        "Opening_Qty": "4",
+        "Purchase_Qty": "",
+        "Closing_Qty": "4"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "",
+        "Description": "Haddock: fillet 230-280gm 15 per case",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "01cod14e08",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "12",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "squid u7",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "33",
+        "Description": "",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "126",
+        "Description": "",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": "3"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "134",
+        "Description": "",
+        "Opening_Qty": "4",
+        "Purchase_Qty": "",
+        "Closing_Qty": "4"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "137",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "32",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "01cod14e08",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "28",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "squid u7",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "02tuns00k14",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1.05",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "106",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "7"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "33",
+        "Description": "",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "126",
+        "Description": "",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": "3"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "134",
+        "Description": "",
+        "Opening_Qty": "4",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "106",
+        "Description": "",
+        "Opening_Qty": "7",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "02tuns00k14",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "137",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "squid u7",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": "4"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "01cod14e08",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "139",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "126",
+        "Description": "",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": "2"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "squid u7",
+        "Description": "",
+        "Opening_Qty": "4",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "126",
+        "Description": "",
+        "Opening_Qty": "2",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "133",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "136",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "16POLS14E8R",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "132",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "126",
+        "Description": "",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "126",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4",
+        "Closing_Qty": "1.5"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "m whole",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "6",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "tbap",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "08prdvkv10124",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "05sall0k0a",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "9",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "squid u7",
+        "Description": "",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "126",
+        "Description": "",
+        "Opening_Qty": "1.5",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "08prdvkv10124",
+        "Description": "",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "Supplier": "Olleco",
+        "Item_Group": "Dry Goods",
+        "Category": "Stocks/ Boullions/ Sauces",
+        "Bfs_Item": 0,
+        "Item_Code": "L01ORB20",
+        "Item_Description": "Royal Crest Green Label Extended Life Oil Rapeseed",
+        "Size": "20 Ltr",
+        "Unit_ptn": 20000,
+        "Unit_mea": "ml",
+        "CS": 1,
+        "Price": 18.48
+    },
+    {
+        "Supplier": "Olleco",
+        "Item_Group": "Dry Goods",
+        "Category": "Stocks/ Boullions/ Sauces",
+        "Bfs_Item": 0,
+        "Item_Code": "GRB15",
+        "Item_Description": "Royal Crest Green Label Extended Life Oil Rapeseed",
+        "Size": "15 Ltr",
+        "Unit_ptn": 1500,
+        "Unit_mea": "ml",
+        "CS": 1,
+        "Price": 12.75
+    }
+]

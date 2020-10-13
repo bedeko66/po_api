@@ -1,0 +1,15 @@
+[
+    {
+        "Supplier": "Chiltern",
+        "Item_Group": "Dry Goods",
+        "Category": "",
+        "Bfs_Item": 0,
+        "Item_Code": "Bbox",
+        "Item_Description": "Breakfast Boxes  (24 pc in each box)",
+        "Unit_ptn": 1,
+        "Unit_mea": "Each",
+        "Size": "Each",
+        "CS": 1,
+        "Price": 2.69
+    }
+]

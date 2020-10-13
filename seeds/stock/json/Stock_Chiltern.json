@@ -1,0 +1,9 @@
+[{"Stock_Date":"Jun-19", "Code":"Bbox", "Opening_Qty":53, "Purchase_Qty":"240", "Closing_Qty":"99"},
+ {"Stock_Date":"Jul-19", "Code":"Bbox", "Opening_Qty":99, "Purchase_Qty":"216", "Closing_Qty":"72"},
+ {"Stock_Date":"Aug-19", "Code":"Bbox", "Opening_Qty":72, "Purchase_Qty":"192", "Closing_Qty":"72"},
+ {"Stock_Date":"Sep-19", "Code":"Bbox", "Opening_Qty":72, "Purchase_Qty":"216", "Closing_Qty":"21"},
+ {"Stock_Date":"Oct-19", "Code":"Bbox", "Opening_Qty":21, "Purchase_Qty":"48", "Closing_Qty":"59"},
+ {"Stock_Date":"Nov-19", "Code":"Bbox", "Opening_Qty":59, "Purchase_Qty":"144", "Closing_Qty":"96"},
+ {"Stock_Date":"Dec-19", "Code":"Bbox", "Opening_Qty":96, "Purchase_Qty":"", "Closing_Qty":"75"},
+ {"Stock_Date":"Jan-20", "Code":"Bbox", "Opening_Qty":75, "Purchase_Qty":"24", "Closing_Qty":"24"},
+ {"Stock_Date":"Feb-20", "Code":"Bbox", "Opening_Qty":24, "Purchase_Qty":"48", "Closing_Qty":""}]

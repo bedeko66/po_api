@@ -1,0 +1,2095 @@
+[
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "b bur",
+        "Opening_Qty": "70",
+        "Purchase_Qty": "430",
+        "Closing_Qty": "68"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "b dic",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "57.891",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "b min",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "61.355",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "b mins",
+        "Opening_Qty": "8",
+        "Purchase_Qty": "7.871",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "b rib",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "56.403",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "b ribeye",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "107.015",
+        "Closing_Qty": "20"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "b strip",
+        "Opening_Qty": "26",
+        "Purchase_Qty": "63.924",
+        "Closing_Qty": "29"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "bac",
+        "Opening_Qty": "9",
+        "Purchase_Qty": "80",
+        "Closing_Qty": "11"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "c bre",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "110",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "c leg",
+        "Opening_Qty": "30",
+        "Purchase_Qty": "115.076",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "c liv",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": "2"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "egg",
+        "Opening_Qty": "12",
+        "Purchase_Qty": "45",
+        "Closing_Qty": "17"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "mix",
+        "Opening_Qty": "28",
+        "Purchase_Qty": "198",
+        "Closing_Qty": "28"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "p chop",
+        "Opening_Qty": "21",
+        "Purchase_Qty": "56.263",
+        "Closing_Qty": "20"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "salm",
+        "Opening_Qty": "0.800000011920929",
+        "Purchase_Qty": "2.05",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "sau",
+        "Opening_Qty": "39",
+        "Purchase_Qty": "227",
+        "Closing_Qty": "23"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "cheese",
+        "Opening_Qty": "34.4",
+        "Purchase_Qty": "140.61",
+        "Closing_Qty": "52.335"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "s rib",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "c dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "45.152",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "sbream",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "ham",
+        "Opening_Qty": "",
+        "Purchase_Qty": "113.998",
+        "Closing_Qty": "38.3"
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "smksalm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2.19",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "p loin",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3.196",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "p dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.455",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "22.2",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b bur",
+        "Opening_Qty": "68",
+        "Purchase_Qty": "390.39",
+        "Closing_Qty": "20"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b dic",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "58.125",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b ribeye",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "15.731",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b strip",
+        "Opening_Qty": "29",
+        "Purchase_Qty": "35.861",
+        "Closing_Qty": "18"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "bac",
+        "Opening_Qty": "11",
+        "Purchase_Qty": "98",
+        "Closing_Qty": "13"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "c bre",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "164.675",
+        "Closing_Qty": "20"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "c liv",
+        "Opening_Qty": "2",
+        "Purchase_Qty": "",
+        "Closing_Qty": "2"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "egg",
+        "Opening_Qty": "17",
+        "Purchase_Qty": "25",
+        "Closing_Qty": "4"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "mix",
+        "Opening_Qty": "28",
+        "Purchase_Qty": "185",
+        "Closing_Qty": "29"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "p chop",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "15.491",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "sau",
+        "Opening_Qty": "23",
+        "Purchase_Qty": "267",
+        "Closing_Qty": "15"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "cheese",
+        "Opening_Qty": "52.335",
+        "Purchase_Qty": "191.877",
+        "Closing_Qty": "17"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "c dic",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "25.528",
+        "Closing_Qty": "20"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "ham",
+        "Opening_Qty": "38.3",
+        "Purchase_Qty": "330.943",
+        "Closing_Qty": "39"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "c wing",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "55.696",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "salm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2.66",
+        "Closing_Qty": "2"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "l dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "65.5",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b mins",
+        "Opening_Qty": "",
+        "Purchase_Qty": "38.024",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "parm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "p dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "53.011",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "gam joi",
+        "Opening_Qty": "",
+        "Purchase_Qty": "12.215",
+        "Closing_Qty": "36"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "c leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "145",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "l rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "7.25",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "s rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "31.6",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20.234",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "23.37",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "york ribeye",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3.294",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "49.14",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "b bur can",
+        "Opening_Qty": "",
+        "Purchase_Qty": "100",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Code": "gam",
+        "Opening_Qty": "",
+        "Purchase_Qty": "18.855",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b bur",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "400",
+        "Closing_Qty": "81"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b strip",
+        "Opening_Qty": "18",
+        "Purchase_Qty": "52.328",
+        "Closing_Qty": "22"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "bac",
+        "Opening_Qty": "13",
+        "Purchase_Qty": "85.35",
+        "Closing_Qty": "14"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "c bre",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "105",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "c liv",
+        "Opening_Qty": "2",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "egg",
+        "Opening_Qty": "4",
+        "Purchase_Qty": "48",
+        "Closing_Qty": "13.5"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "mix",
+        "Opening_Qty": "29",
+        "Purchase_Qty": "163",
+        "Closing_Qty": "28"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "sau",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "242",
+        "Closing_Qty": "19"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "cheese",
+        "Opening_Qty": "17",
+        "Purchase_Qty": "137.845",
+        "Closing_Qty": "35"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "c dic",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "80.702",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "ham",
+        "Opening_Qty": "39",
+        "Purchase_Qty": "375.865",
+        "Closing_Qty": "76.7"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "salm",
+        "Opening_Qty": "2",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "p dic",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "gam joi",
+        "Opening_Qty": "36",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "c leg",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "210.602",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "31.175",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "gam",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.045",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "108.405",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "l dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "109.472",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "41",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b top",
+        "Opening_Qty": "",
+        "Purchase_Qty": "72.389",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b mins",
+        "Opening_Qty": "",
+        "Purchase_Qty": "34.38",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "p chop",
+        "Opening_Qty": "",
+        "Purchase_Qty": "56.565",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20.59",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "79.736",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "l cut",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "parm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "b ribeye",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3.722",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "l rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4.104",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "d smo pack",
+        "Opening_Qty": "",
+        "Purchase_Qty": "0.626",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "p belly",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4.272",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "l min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2.14",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "p leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "14.23",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "egg q",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "p neck",
+        "Opening_Qty": "",
+        "Purchase_Qty": "15.123",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "s rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "16",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Code": "smksalm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b bur",
+        "Opening_Qty": "81",
+        "Purchase_Qty": "420",
+        "Closing_Qty": "40"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b strip",
+        "Opening_Qty": "22",
+        "Purchase_Qty": "36.993",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "bac",
+        "Opening_Qty": "14",
+        "Purchase_Qty": "75",
+        "Closing_Qty": "8"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "egg",
+        "Opening_Qty": "13.5",
+        "Purchase_Qty": "27",
+        "Closing_Qty": "6"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "mix",
+        "Opening_Qty": "28",
+        "Purchase_Qty": "148",
+        "Closing_Qty": "6"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "sau",
+        "Opening_Qty": "19",
+        "Purchase_Qty": "229",
+        "Closing_Qty": "26"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "cheese",
+        "Opening_Qty": "35",
+        "Purchase_Qty": "243.69",
+        "Closing_Qty": "80"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "ham",
+        "Opening_Qty": "76.7",
+        "Purchase_Qty": "222.5535",
+        "Closing_Qty": "41"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b top",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "8.13",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b rib",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "74.305",
+        "Closing_Qty": "20"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "smksalm",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "41.825",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "c bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "140",
+        "Closing_Qty": "3"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "c dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "238.951",
+        "Closing_Qty": "45"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "c leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "180",
+        "Closing_Qty": "25"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "l dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "203.893",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b mins",
+        "Opening_Qty": "",
+        "Purchase_Qty": "8.824",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "165.778",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "p chop",
+        "Opening_Qty": "",
+        "Purchase_Qty": "55.677",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "parm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "t bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "t who",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20.83",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "l min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "d bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.38",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b bur6",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "b rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "60.31",
+        "Closing_Qty": "15"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "p leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "16.725",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "p belly",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5.566",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "30",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "c pate",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "salm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "0"
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Code": "l rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "35.065",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b bur",
+        "Opening_Qty": "40",
+        "Purchase_Qty": "453",
+        "Closing_Qty": "27"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b strip",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "59.984",
+        "Closing_Qty": "15"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "bac",
+        "Opening_Qty": "8",
+        "Purchase_Qty": "76",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "egg",
+        "Opening_Qty": "6",
+        "Purchase_Qty": "32",
+        "Closing_Qty": "5"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "mix",
+        "Opening_Qty": "6",
+        "Purchase_Qty": "182",
+        "Closing_Qty": "18"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "sau",
+        "Opening_Qty": "26",
+        "Purchase_Qty": "236",
+        "Closing_Qty": "16"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "cheese",
+        "Opening_Qty": "80",
+        "Purchase_Qty": "127.2604",
+        "Closing_Qty": "74.325"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "ham",
+        "Opening_Qty": "41",
+        "Purchase_Qty": "229.495",
+        "Closing_Qty": "63.6"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b rib",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "54.756",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "smksalm",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b min",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "c bre",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "132.38",
+        "Closing_Qty": "9"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "c dic",
+        "Opening_Qty": "45",
+        "Purchase_Qty": "260.9752",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "c leg",
+        "Opening_Qty": "25",
+        "Purchase_Qty": "155.3",
+        "Closing_Qty": "50"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b rump",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "68.05",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "c pate",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "salm",
+        "Opening_Qty": "0",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "l rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "35.897",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "c smo pack",
+        "Opening_Qty": "",
+        "Purchase_Qty": "14.256",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "parm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "d smo pack",
+        "Opening_Qty": "",
+        "Purchase_Qty": "15.97",
+        "Closing_Qty": "2"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "s sal",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10",
+        "Closing_Qty": "3"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "p chop",
+        "Opening_Qty": "",
+        "Purchase_Qty": "49.16",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "l dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "103.477",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20.9",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "d bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2.032",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "d liv",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "t bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "32.941",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "112.845",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b mins",
+        "Opening_Qty": "",
+        "Purchase_Qty": "34.374",
+        "Closing_Qty": "12"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "s rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "8.005",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "l min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5.432",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "brat",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1.252",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "smkbrat",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1.44",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b tend",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "cho",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "p leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "17.56",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b ribeye",
+        "Opening_Qty": "",
+        "Purchase_Qty": "59.62",
+        "Closing_Qty": "20"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "p neck",
+        "Opening_Qty": "",
+        "Purchase_Qty": "15.8074",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "b bur6",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "0"
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Code": "cho s",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "3"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b bur",
+        "Opening_Qty": "27",
+        "Purchase_Qty": "440",
+        "Closing_Qty": "68"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b strip",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "37.613",
+        "Closing_Qty": "8"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "bac",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "64",
+        "Closing_Qty": "11"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "egg",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "40",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "mix",
+        "Opening_Qty": "18",
+        "Purchase_Qty": "172",
+        "Closing_Qty": "31"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "sau",
+        "Opening_Qty": "16",
+        "Purchase_Qty": "180",
+        "Closing_Qty": "22"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "cheese",
+        "Opening_Qty": "74.325",
+        "Purchase_Qty": "106.475",
+        "Closing_Qty": "25"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "ham",
+        "Opening_Qty": "63.6",
+        "Purchase_Qty": "187.555",
+        "Closing_Qty": "46"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "smksalm",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "c bre",
+        "Opening_Qty": "9",
+        "Purchase_Qty": "60",
+        "Closing_Qty": "12"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "c leg",
+        "Opening_Qty": "50",
+        "Purchase_Qty": "80",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "d smo pack",
+        "Opening_Qty": "2",
+        "Purchase_Qty": "20.96",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "s sal",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b mins",
+        "Opening_Qty": "12",
+        "Purchase_Qty": "8.358",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "brat",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b ribeye",
+        "Opening_Qty": "20",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b bur6",
+        "Opening_Qty": "0",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "cho s",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "176.943",
+        "Closing_Qty": "18"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "l dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "85.76",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "c dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "200.867",
+        "Closing_Qty": "4"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "54.518",
+        "Closing_Qty": "4"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "p chop",
+        "Opening_Qty": "",
+        "Purchase_Qty": "9.03",
+        "Closing_Qty": "3"
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "parm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "t bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "97.129",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "p neck",
+        "Opening_Qty": "",
+        "Purchase_Qty": "37.335",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "47.5",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "b rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "53.115",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "12.25",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "p leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.665",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "p dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.325",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "t stuffed",
+        "Opening_Qty": "",
+        "Purchase_Qty": "84.353",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Code": "t who",
+        "Opening_Qty": "",
+        "Purchase_Qty": "11.659",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b bur",
+        "Opening_Qty": "68",
+        "Purchase_Qty": "410",
+        "Closing_Qty": "75"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b strip",
+        "Opening_Qty": "8",
+        "Purchase_Qty": "40.4921",
+        "Closing_Qty": "28"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "bac",
+        "Opening_Qty": "11",
+        "Purchase_Qty": "75",
+        "Closing_Qty": "15"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "egg",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "23",
+        "Closing_Qty": "17"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "mix",
+        "Opening_Qty": "31",
+        "Purchase_Qty": "154",
+        "Closing_Qty": "42"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "sau",
+        "Opening_Qty": "22",
+        "Purchase_Qty": "204",
+        "Closing_Qty": "60"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "cheese",
+        "Opening_Qty": "25",
+        "Purchase_Qty": "162.83",
+        "Closing_Qty": "40"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "ham",
+        "Opening_Qty": "46",
+        "Purchase_Qty": "196.244",
+        "Closing_Qty": "66"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "c bre",
+        "Opening_Qty": "12",
+        "Purchase_Qty": "79.24",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b dic",
+        "Opening_Qty": "18",
+        "Purchase_Qty": "32.27",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "c dic",
+        "Opening_Qty": "4",
+        "Purchase_Qty": "78.819",
+        "Closing_Qty": "30"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b min",
+        "Opening_Qty": "4",
+        "Purchase_Qty": "61.782",
+        "Closing_Qty": "5"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "p chop",
+        "Opening_Qty": "3",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b bur6",
+        "Opening_Qty": "",
+        "Purchase_Qty": "109",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.08",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "l dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "33.457",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "c leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "80",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "p neck",
+        "Opening_Qty": "",
+        "Purchase_Qty": "39.82",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "t bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "33.89",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "parm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "egg q",
+        "Opening_Qty": "",
+        "Purchase_Qty": "8",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "59.911",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "t stuffed",
+        "Opening_Qty": "",
+        "Purchase_Qty": "52.955",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "63.52",
+        "Closing_Qty": "15"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "t who",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20.802",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "p belly",
+        "Opening_Qty": "",
+        "Purchase_Qty": "22.66",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "l leg",
+        "Opening_Qty": "",
+        "Purchase_Qty": "15.024",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "p blanket",
+        "Opening_Qty": "",
+        "Purchase_Qty": "270",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "serano",
+        "Opening_Qty": "",
+        "Purchase_Qty": "6.86",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "p dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20.7",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "b mins",
+        "Opening_Qty": "",
+        "Purchase_Qty": "6.532",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "sir",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "c stuffed",
+        "Opening_Qty": "",
+        "Purchase_Qty": "470",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "cho s",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "2"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "serr",
+        "Opening_Qty": "",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Code": "p sho",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.955",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b bur",
+        "Opening_Qty": "75",
+        "Purchase_Qty": "310",
+        "Closing_Qty": "47"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b strip",
+        "Opening_Qty": "28",
+        "Purchase_Qty": "44.374",
+        "Closing_Qty": "29"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "bac",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "52",
+        "Closing_Qty": "27"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "egg",
+        "Opening_Qty": "17",
+        "Purchase_Qty": "31",
+        "Closing_Qty": "9"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "mix",
+        "Opening_Qty": "42",
+        "Purchase_Qty": "137",
+        "Closing_Qty": "18"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "sau",
+        "Opening_Qty": "60",
+        "Purchase_Qty": "150",
+        "Closing_Qty": "35"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "cheese",
+        "Opening_Qty": "40",
+        "Purchase_Qty": "76.885",
+        "Closing_Qty": "35"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "ham",
+        "Opening_Qty": "66",
+        "Purchase_Qty": "195.166",
+        "Closing_Qty": "76"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "c bre",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "55",
+        "Closing_Qty": "12"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "c dic",
+        "Opening_Qty": "30",
+        "Purchase_Qty": "55.245",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b min",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "30.812",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "c leg",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "30",
+        "Closing_Qty": "5"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "p neck",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "25.465",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b rib",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "53.54",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b rump",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "25.36",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "cho s",
+        "Opening_Qty": "2",
+        "Purchase_Qty": "",
+        "Closing_Qty": "1"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "serr",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b mins",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3.212",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "l rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "25.94",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "p dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "28.867",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "21",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "p chop",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5.152",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "l min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.422",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "parm",
+        "Opening_Qty": "",
+        "Purchase_Qty": "4",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "c stir",
+        "Opening_Qty": "",
+        "Purchase_Qty": "39.411",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b stir",
+        "Opening_Qty": "",
+        "Purchase_Qty": "7.025",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "l rack",
+        "Opening_Qty": "",
+        "Purchase_Qty": "176",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "b dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "59.725",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "sir",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "ccf sup",
+        "Opening_Qty": "",
+        "Purchase_Qty": "220",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "d smo pack",
+        "Opening_Qty": "",
+        "Purchase_Qty": "10.065",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "gam joi",
+        "Opening_Qty": "",
+        "Purchase_Qty": "21.62",
+        "Closing_Qty": "15"
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Code": "t bre",
+        "Opening_Qty": "",
+        "Purchase_Qty": "13.66",
+        "Closing_Qty": "10"
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b bur",
+        "Opening_Qty": "47",
+        "Purchase_Qty": "140",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b strip",
+        "Opening_Qty": "29",
+        "Purchase_Qty": "17.118",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "bac",
+        "Opening_Qty": "27",
+        "Purchase_Qty": "33",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "egg",
+        "Opening_Qty": "9",
+        "Purchase_Qty": "17",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "mix",
+        "Opening_Qty": "18",
+        "Purchase_Qty": "84",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "sau",
+        "Opening_Qty": "35",
+        "Purchase_Qty": "76",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "cheese",
+        "Opening_Qty": "35",
+        "Purchase_Qty": "92.2",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "ham",
+        "Opening_Qty": "76",
+        "Purchase_Qty": "103.44",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "c bre",
+        "Opening_Qty": "12",
+        "Purchase_Qty": "35",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "c leg",
+        "Opening_Qty": "5",
+        "Purchase_Qty": "40",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "cho s",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "gam joi",
+        "Opening_Qty": "15",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "t bre",
+        "Opening_Qty": "10",
+        "Purchase_Qty": "",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b rump",
+        "Opening_Qty": "",
+        "Purchase_Qty": "41.673",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "85.425",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b min",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20.62",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b rib",
+        "Opening_Qty": "",
+        "Purchase_Qty": "25.524",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "c dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "96.685",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b mins",
+        "Opening_Qty": "",
+        "Purchase_Qty": "13.609",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "d smo pack",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2.78",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "pastrami",
+        "Opening_Qty": "",
+        "Purchase_Qty": "2",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "p dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "6.085",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "b ribeye",
+        "Opening_Qty": "",
+        "Purchase_Qty": "3.162",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "p neck",
+        "Opening_Qty": "",
+        "Purchase_Qty": "11.03",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "l dic",
+        "Opening_Qty": "",
+        "Purchase_Qty": "5.396",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "c sup",
+        "Opening_Qty": "",
+        "Purchase_Qty": "20",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "c stir",
+        "Opening_Qty": "",
+        "Purchase_Qty": "22.952",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "c wing",
+        "Opening_Qty": "",
+        "Purchase_Qty": "15",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "t who",
+        "Opening_Qty": "",
+        "Purchase_Qty": "30.045",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "keb",
+        "Opening_Qty": "",
+        "Purchase_Qty": "30",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "cho",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1",
+        "Closing_Qty": ""
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Code": "serr",
+        "Opening_Qty": "",
+        "Purchase_Qty": "1",
+        "Closing_Qty": ""
+    }
+]
