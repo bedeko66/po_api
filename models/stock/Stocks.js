@@ -1,4 +1,4 @@
-const { db } = require('../../../config/database');
+const { db } = require('../../config/database');
 //const { db } = require('../../../config/postgres');
 
 const stockSchema = require('./stock_schema');

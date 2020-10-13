@@ -21,8 +21,11 @@ const database = require('./config/database')
 database.connect();
 database.syncronize();
 
-const foodProducts = require('./api/foodProducts/foodProductRoutes')
-app.use("/products/food", foodProducts);
+const foodProductsRouter = require('./api/foodProducts/foodProductRoutes')
+app.use("/products/food", foodProductsRouter);
+
+const stocksRouter = require('./api/stocks/stocksRoutes')
+app.use("/products/food", stocksRouter);
 
 app.use(middlewares.notFound);
 app.use(middlewares.errorHandler);
