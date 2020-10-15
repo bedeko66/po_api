@@ -1,10 +1,14 @@
-let obj = {
-    One: 'One',
-    Two: 'Two',
-    Three: 'Three',
-    Four: 'Four',
-}
+let num = 1;
+//if (!Number.isInteger(num)) { console.log('number') }
+console.log(String(num));
 
-let arr = Object.keys(obj);
+// let obj = {
+//     One: 'One',
+//     Two: 'Two',
+//     Three: 'Three',
+//     Four: 'Four',
+// }
 
-arr.forEach(a => console.log(a));
+// let arr = Object.keys(obj);
+
+// arr.forEach(a => console.log(a));

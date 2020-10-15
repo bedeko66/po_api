@@ -1,15 +1,18 @@
 const Stocks = require('../../models/stock/Stocks');
-const getJsonFiles = require('../helpers/seed.helpers');
+const { getJsonFilesForStocks } = require('../helpers/seed.helpers');
 
-const doSeed = async () => {
+
+const doStockSeed = async () => {
     try {
-        let files = await getJsonFiles();
-
+        let files = await getJsonFilesForStocks();
         files.forEach(async (file) => {
             if (file.includes('json')) {
                 let fileName = file.split('.')[0]
-                await Stocks[fileName].bulkCreate(require(`./json/${file}`));
-                //console.log('done if in for each');
+                try {
+                    await Stocks[fileName].bulkCreate(require(`./json/${file}`));
+                } catch (error) {
+                    console.log(error);
+                }
             }
 
         });
@@ -18,10 +21,10 @@ const doSeed = async () => {
         console.log(error);
     }
 }
-// module.exports = {
-//     doSeed
-// }
-doSeed();
+module.exports = {
+    doStockSeed
+}
+//doStockSeed();
 
 
 // const seed = async (file) => {

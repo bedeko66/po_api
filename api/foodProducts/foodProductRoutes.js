@@ -1,25 +1,35 @@
 // // !!! Item_Code , Item_Group, Item_Description !!!
 
 const express = require('express');
+//const { sequelize } = require('../../config/mysql_db')
 const foodProductsRouter = express.Router();
 
 const { Op } = require("sequelize");
 const capitalize = require('../../helpers/helpers');
-const Suppliers = require('../../models/suppliers/food/Suppliers')
+//const Suppliers = require('../../models/suppliers/food/Suppliers')
 
 const fs = require('fs');
 const fsPromises = fs.promises;
 let newJsonData = '/Users/bedeko/Projects/ilec-pos-seq/seeds/helpers/Data.json'
+
+
 //Join supplier tables get all products
 foodProductsRouter.get('/', async (req, res) => {
     try {
+
         let arrOfSuppliers = Object.keys(Suppliers);
+
         let arrOfProducts = await arrOfSuppliers.map(async supplier => {
             return await Suppliers[supplier].findAll()
+        })
+        arrOfSuppliers.forEach(supplier => {
+            //return await db.Suppliers[supplier].findAll()
+            console.log(Suppliers[supplier]);
         })
 
         let result = await Promise.all(arrOfProducts)
         res.json(result)
+
 
         //fs.writeFileSync(newJsonData, JSON.stringify(result));
         // let result = await Promise.all(arrOfSuppliers.map(async supplier => {
@@ -31,8 +41,8 @@ foodProductsRouter.get('/', async (req, res) => {
     }
 });
 
-//Query by properties on any selected supplier
-//http://localhost:5050/products/food/Brakes/?Item_Description=cheese
+// //Query by properties on any selected supplier
+// //http://localhost:5050/products/food/Brakes/?Item_Description=cheese
 foodProductsRouter.get('/:supplier', async (req, res) => {
     try {
 

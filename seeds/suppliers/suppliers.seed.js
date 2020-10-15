@@ -1,30 +1,30 @@
 const Suppliers = require('../../models/suppliers/food/Suppliers');
+const { getJsonFilesForSuppliers } = require('../helpers/seed.helpers');
 
-//const jsonKff = require('./Kff.json')
-
-const getJsonFiles = require('../helpers/seed.helpers');
-
-const doSeed = async () => {
+const doSuppliersSeed = async () => {
     try {
-        let files = await getJsonFiles();
-
+        let files = await getJsonFilesForSuppliers();
         files.forEach(async (file) => {
             if (file.includes('json')) {
                 let fileName = file.split('.')[0]
-                await Suppliers[fileName].bulkCreate(require(`./json/${file}`));
+
+                try {
+                    await Suppliers[fileName].bulkCreate(require(`./json/${file}`));
+                } catch (error) {
+                    console.log(error)
+                }
                 //console.log('done if in for each');
             }
-
         });
 
     } catch (error) {
         console.log(error);
     }
 }
-// module.exports = {
-//     doSeed
-// }
-doSeed();
+module.exports = {
+    doSuppliersSeed
+}
+//doSuppliersSeed();
 
 
 // const seed = async (file) => {

@@ -1,8 +1,7 @@
 // //const mysql = require('mysql2/promise');
 
 //--------------------
-const { Sequelize } = require('sequelize');
-
+const Sequelize = require('sequelize');
 require('dotenv').config()
 
 const dbAuth = {
@@ -14,17 +13,28 @@ const dbAuth = {
 };
 const { host, port, user, password, database, databaseSchema } = dbAuth;
 
-const db = new Sequelize(databaseSchema, user, password, {
+const sequelize = new Sequelize(databaseSchema, user, password, {
     host,
     port,
     dialect: database,
-    // pool: {
-    //     max: 5,
-    //     min: 0,
-    //     aquire: 3000,
-    //     idle: 10000
-    // }
+
 });
+
+// Connect all the models/tables in the database to a db object,
+//so everything is accessible via one object
+const db = {};
+
+db.Sequelize = Sequelize;
+db.sequelize = sequelize;
+
+//Models/tables
+const initialize_models = require('../models/main/model.init');
+initialize_models(db, sequelize);
+// db.Brakes = require('../models/suppliers/food/Suppliers_new')(sequelize);
+// db.Stocks_Brakes = require('../models/stock/Stocks_new')(sequelize);
+
+//Relations
+
 
 
 async function connect() {
@@ -74,8 +84,8 @@ async function closeConn() {
 //dropDb()
 //closeConn()
 
-module.exports = { db, connect, syncronize }
-//global.db = db;
+module.exports = db
+global.db = db;
 
 
 // const mysql = require('mysql2/promise');

@@ -1,6 +1,12 @@
 const { DataTypes } = require('sequelize');
 
 module.exports = {
+    id: {
+        type: DataTypes.INTEGER(11),
+        allowNull: false,
+        autoIncrement: true,
+        primaryKey: true
+    },
     Supplier: {
         type: DataTypes.STRING,
         allowNull: false

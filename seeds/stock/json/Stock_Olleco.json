@@ -1,9 +1,65 @@
-[{"Stock_Date":"Jun-19", "Code":"L01ORB20", "Opening_Qty":31.0, "Purchase_Qty":40, "Closing_Qty":"16"},
- {"Stock_Date":"Jul-19", "Code":"L01ORB20", "Opening_Qty":16.0, "Purchase_Qty":30, "Closing_Qty":"29.5"},
- {"Stock_Date":"Aug-19", "Code":"L01ORB20", "Opening_Qty":29.5, "Purchase_Qty":40, "Closing_Qty":"25"},
- {"Stock_Date":"Sep-19", "Code":"L01ORB20", "Opening_Qty":25.0, "Purchase_Qty":20, "Closing_Qty":"20"},
- {"Stock_Date":"Oct-19", "Code":"L01ORB20", "Opening_Qty":20.0, "Purchase_Qty":40, "Closing_Qty":"15"},
- {"Stock_Date":"Nov-19", "Code":"L01ORB20", "Opening_Qty":15.0, "Purchase_Qty":20, "Closing_Qty":"18"},
- {"Stock_Date":"Dec-19", "Code":"L01ORB20", "Opening_Qty":18.0, "Purchase_Qty":60, "Closing_Qty":"29"},
- {"Stock_Date":"Jan-20", "Code":"L01ORB20", "Opening_Qty":29.0, "Purchase_Qty":40, "Closing_Qty":"21"},
- {"Stock_Date":"Feb-20", "Code":"L01ORB20", "Opening_Qty":21.0, "Purchase_Qty":20, "Closing_Qty":""}]
+[
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 31,
+        "Purchase_Qty": 40,
+        "Closing_Qty": 16
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 16,
+        "Purchase_Qty": 30,
+        "Closing_Qty": 29.5
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 29.5,
+        "Purchase_Qty": 40,
+        "Closing_Qty": 25
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 25,
+        "Purchase_Qty": 20,
+        "Closing_Qty": 20
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 20,
+        "Purchase_Qty": 40,
+        "Closing_Qty": 15
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 15,
+        "Purchase_Qty": 20,
+        "Closing_Qty": 18
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 18,
+        "Purchase_Qty": 60,
+        "Closing_Qty": 29
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 29,
+        "Purchase_Qty": 40,
+        "Closing_Qty": 21
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "L01ORB20",
+        "Opening_Qty": 21,
+        "Purchase_Qty": 20,
+        "Closing_Qty": 0
+    }
+]

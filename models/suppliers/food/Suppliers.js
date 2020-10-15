@@ -1,61 +1,61 @@
 //const { Model } = require('sequelize');
-const Sequelize = require('sequelize');
-const { db } = require('../../../config/database');
+//const Sequelize = require('sequelize');
 //const { db } = require('../../../config/postgres');
 
+const { sequelize } = require('../../../config/mysql_db');
 const productSchema = require('./product_schema');
 
-// module.exports = {
-//     Brakes: db.define('Brakes', productSchema, {
-//         tableName: 'Products_Brakes',
-//         timestamps: false
-//     }),
-//     Reynolds: db.define('Reynolds', productSchema, {
-//         tableName: 'Products_Reynolds',
-//         timestamps: false
-//     }),
-//     Kff: db.define('Kff', productSchema, {
-//         tableName: 'Products_Kff',
-//         timestamps: false
-//     }),
-//     Chiltern: db.define('Chiltern', productSchema, {
-//         tableName: 'Products_Chiltern',
-//         timestamps: false
-//     }),
-//     Dickenson: db.define('Dickenson', productSchema, {
-//         tableName: 'Products_Dickenson',
-//         timestamps: false
-//     }),
-//     ExpressChef: db.define('ExpressChef', productSchema, {
-//         tableName: 'Products_ExpressChef',
-//         timestamps: false
-//     }),
-//     LaTuaPasta: db.define('LaTuaPasta', productSchema, {
-//         tableName: 'Products_LaTuaPasta',
-//         timestamps: false
-//     }),
-//     Nespresso: db.define('Nespresso', productSchema, {
-//         tableName: 'Products_Nespresso',
-//         timestamps: false
-//     }),
-//     Olleco: db.define('Olleco', productSchema, {
-//         tableName: 'Products_Olleco',
-//         timestamps: false
-//     }),
-//     Swithenbank: db.define('Swithenbank', productSchema, {
-//         tableName: 'Products_Swithenbank',
-//         timestamps: false
-//     }),
-//     Tschibo: db.define('Tschibo', productSchema, {
-//         tableName: 'Products_Tschibo',
-//         timestamps: false
-//     }),
-//     Direct_Seafood: db.define('Direct_Seafood', productSchema, {
-//         tableName: 'Products_Direct_Seafood',
-//         timestamps: false
-//     })
+module.exports = {
+    Brakes: sequelize.define('Brakes', productSchema, {
+        tableName: 'Products_Brakes',
+        timestamps: false
+    }),
+    Reynolds: sequelize.define('Reynolds', productSchema, {
+        tableName: 'Products_Reynolds',
+        timestamps: false
+    }),
+    Kff: sequelize.define('Kff', productSchema, {
+        tableName: 'Products_Kff',
+        timestamps: false
+    }),
+    Chiltern: sequelize.define('Chiltern', productSchema, {
+        tableName: 'Products_Chiltern',
+        timestamps: false
+    }),
+    Dickenson: sequelize.define('Dickenson', productSchema, {
+        tableName: 'Products_Dickenson',
+        timestamps: false
+    }),
+    Express_Chef: sequelize.define('Express_Chef', productSchema, {
+        tableName: 'Products_Express_Chef',
+        timestamps: false
+    }),
+    La_Tua_Pasta: sequelize.define('La_Tua_Pasta', productSchema, {
+        tableName: 'Products_La_Tua_Pasta',
+        timestamps: false
+    }),
+    Nespresso: sequelize.define('Nespresso', productSchema, {
+        tableName: 'Products_Nespresso',
+        timestamps: false
+    }),
+    Olleco: sequelize.define('Olleco', productSchema, {
+        tableName: 'Products_Olleco',
+        timestamps: false
+    }),
+    Swithenbank: sequelize.define('Swithenbank', productSchema, {
+        tableName: 'Products_Swithenbank',
+        timestamps: false
+    }),
+    Tschibo: sequelize.define('Tschibo', productSchema, {
+        tableName: 'Products_Tschibo',
+        timestamps: false
+    }),
+    Direct_Seafood: sequelize.define('Direct_Seafood', productSchema, {
+        tableName: 'Products_Direct_Seafood',
+        timestamps: false
+    })
 
-// }
+}
 
 
 
@@ -64,67 +64,104 @@ const productSchema = require('./product_schema');
 
 //--------------------------------------------
 
-const Brakes = db.define('Brakes', productSchema, {
-    tableName: 'Products_Brakes',
-    timestamps: false
-})
-const Reynolds = db.define('Reynolds', productSchema, {
-    tableName: 'Products_Reynolds',
-    timestamps: false
-})
-const Kff = db.define('Kff', productSchema, {
-    tableName: 'Products_Kff',
-    timestamps: false
-})
-const Chiltern = db.define('Chiltern', productSchema, {
-    tableName: 'Products_Chiltern',
-    timestamps: false
-})
-const Dickenson = db.define('Dickenson', productSchema, {
-    tableName: 'Products_Dickenson',
-    timestamps: false
-})
-const ExpressChef = db.define('ExpressChef', productSchema, {
-    tableName: 'Products_ExpressChef',
-    timestamps: false
-})
-const LaTuaPasta = db.define('LaTuaPasta', productSchema, {
-    tableName: 'Products_LaTuaPasta',
-    timestamps: false
-})
-const Nespresso = db.define('Nespresso', productSchema, {
-    tableName: 'Products_Nespresso',
-    timestamps: false
-})
-const Olleco = db.define('Olleco', productSchema, {
-    tableName: 'Products_Olleco',
-    timestamps: false
-})
-const Swithenbank = db.define('Swithenbank', productSchema, {
-    tableName: 'Products_Swithenbank',
-    timestamps: false
-})
-const Tschibo = db.define('Tschibo', productSchema, {
-    tableName: 'Products_Tschibo',
-    timestamps: false
-})
-const Direct_Seafood = db.define('Direct_Seafood', productSchema, {
-    tableName: 'Products_Direct_Seafood',
-    timestamps: false
-})
+// const Brakes = (sequelize) => {
+//     sequelize.define('Brakes', productSchema, {
+//         tableName: 'Products_Brakes',
+//         timestamps: false
+//     })
+//     return Brakes
 
-module.exports = {
-    Brakes,
-    Reynolds,
-    Kff,
-    Chiltern,
-    Dickenson,
-    ExpressChef,
-    LaTuaPasta,
-    Nespresso,
-    Olleco,
-    Swithenbank,
-    Tschibo,
-    Direct_Seafood
-}
+// }
+// const Reynolds = (sequelize) => {
+//     sequelize.define('Reynolds', productSchema, {
+//         tableName: 'Products_Reynolds',
+//         timestamps: false
+//     })
+//     return Reynolds
+// }
+// const Kff = (sequelize) => {
+//     sequelize.define('Kff', productSchema, {
+//         tableName: 'Products_Kff',
+//         timestamps: false
+//     })
+//     return Kff
+// }
+// const Chiltern = (sequelize) => {
+//     sequelize.define('Chiltern', productSchema, {
+//         tableName: 'Products_Chiltern',
+//         timestamps: false
+//     })
+//     return Olleco
+// }
+// const Dickenson = (sequelize) => {
+//     sequelize.define('Dickenson', productSchema, {
+//         tableName: 'Products_Dickenson',
+//         timestamps: false
+//     })
+//     return Dickenson
+// }
+// const ExpressChef = (sequelize) => {
+//     sequelize.define('ExpressChef', productSchema, {
+//         tableName: 'Products_ExpressChef',
+//         timestamps: false
+//     })
+//     return ExpressChef
+// }
+// const LaTuaPasta = (sequelize) => {
+//     sequelize.define('LaTuaPasta', productSchema, {
+//         tableName: 'Products_LaTuaPasta',
+//         timestamps: false
+//     })
+//     return LaTuaPasta
+// }
+// const Nespresso = (sequelize) => {
+//     sequelize.define('Nespresso', productSchema, {
+//         tableName: 'Products_Nespresso',
+//         timestamps: false
+//     })
+//     return Nespresso
+// }
+// const Olleco = (sequelize) => {
+//     sequelize.define('Olleco', productSchema, {
+//         tableName: 'Products_Olleco',
+//         timestamps: false
+//     })
+//     return Olleco
+// }
+// const Swithenbank = (sequelize) => {
+//     sequelize.define('Swithenbank', productSchema, {
+//         tableName: 'Products_Swithenbank',
+//         timestamps: false
+//     })
+//     return Swithenbank
+// }
+// const Tschibo = (sequelize) => {
+//     sequelize.define('Tschibo', productSchema, {
+//         tableName: 'Products_Tschibo',
+//         timestamps: false
+//     })
+//     return Tschibo
+// }
+// const Direct_Seafood = (sequelize) => {
+//     sequelize.define('Direct_Seafood', productSchema, {
+//         tableName: 'Products_Direct_Seafood',
+//         timestamps: false
+//     })
+//     return Direct_Seafood
+// }
+
+// module.exports = {
+//     Brakes,
+//     Reynolds,
+//     Kff,
+//     Chiltern,
+//     Dickenson,
+//     ExpressChef,
+//     LaTuaPasta,
+//     Nespresso,
+//     Olleco,
+//     Swithenbank,
+//     Tschibo,
+//     Direct_Seafood
+// }
 

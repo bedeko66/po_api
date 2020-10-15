@@ -7,12 +7,22 @@ const { DataTypes } = require('sequelize');
 // "Closing_Qty": "4.7"
 
 module.exports = {
+    id: {
+        type: DataTypes.INTEGER(11),
+        allowNull: false,
+        autoIncrement: true,
+        primaryKey: true
+    },
     Stock_Date: {
         type: DataTypes.STRING,
         allowNull: false
     },
     Item_Code: {
-        type: DataTypes.STRING
+        type: DataTypes.STRING,
+        // references: {
+        //     //model: 'Products_Olleco', // 'persons' refers to table name
+        //     key: 'id', // 'id' refers to column name in persons table
+        // }
     },
     Opening_Qty: {
         type: DataTypes.DECIMAL(10, 2)

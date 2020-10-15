@@ -1,60 +1,422 @@
-[{"Stock_Date":"Jun-19", "Code":8887.0, "Opening_Qty":"250", "Purchase_Qty":"", "Closing_Qty":"250"},
- {"Stock_Date":"Jun-19", "Code":8886.0, "Opening_Qty":"300", "Purchase_Qty":"", "Closing_Qty":"150"},
- {"Stock_Date":"Jun-19", "Code":8888.0, "Opening_Qty":"250", "Purchase_Qty":"200", "Closing_Qty":"500"},
- {"Stock_Date":"Jun-19", "Code":8881.0, "Opening_Qty":"150", "Purchase_Qty":"200", "Closing_Qty":"200"},
- {"Stock_Date":"Jun-19", "Code":8885.0, "Opening_Qty":"250", "Purchase_Qty":"100", "Closing_Qty":"300"},
- {"Stock_Date":"Jun-19", "Code":8882.0, "Opening_Qty":"", "Purchase_Qty":"200", "Closing_Qty":"200"},
- {"Stock_Date":"Jun-19", "Code":8892.0, "Opening_Qty":"200", "Purchase_Qty":"200", "Closing_Qty":"350"},
- {"Stock_Date":"Jun-19", "Code":8894.81, "Opening_Qty":"", "Purchase_Qty":"100", "Closing_Qty":"100"},
- {"Stock_Date":"Jul-19", "Code":8885.0, "Opening_Qty":"300", "Purchase_Qty":"", "Closing_Qty":"250"},
- {"Stock_Date":"Jul-19", "Code":8881.0, "Opening_Qty":"200", "Purchase_Qty":"300", "Closing_Qty":"350"},
- {"Stock_Date":"Jul-19", "Code":8888.0, "Opening_Qty":"500", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Jul-19", "Code":8886.0, "Opening_Qty":"150", "Purchase_Qty":"300", "Closing_Qty":"450"},
- {"Stock_Date":"Jul-19", "Code":8882.0, "Opening_Qty":"200", "Purchase_Qty":"300", "Closing_Qty":""},
- {"Stock_Date":"Jul-19", "Code":8894.81, "Opening_Qty":"100", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Jul-19", "Code":8892.0, "Opening_Qty":"350", "Purchase_Qty":"600", "Closing_Qty":"600"},
- {"Stock_Date":"Jul-19", "Code":8887.0, "Opening_Qty":"", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Aug-19", "Code":8885.0, "Opening_Qty":"250", "Purchase_Qty":"", "Closing_Qty":"250"},
- {"Stock_Date":"Aug-19", "Code":8881.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":"350"},
- {"Stock_Date":"Aug-19", "Code":8886.0, "Opening_Qty":"450", "Purchase_Qty":"", "Closing_Qty":"450"},
- {"Stock_Date":"Aug-19", "Code":8892.0, "Opening_Qty":"600", "Purchase_Qty":"", "Closing_Qty":"900"},
- {"Stock_Date":"Aug-19", "Code":8887.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Aug-19", "Code":8888.0, "Opening_Qty":"", "Purchase_Qty":"", "Closing_Qty":"450"},
- {"Stock_Date":"Sep-19", "Code":8885.0, "Opening_Qty":"250", "Purchase_Qty":"", "Closing_Qty":"250"},
- {"Stock_Date":"Sep-19", "Code":8881.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":"300"},
- {"Stock_Date":"Sep-19", "Code":8886.0, "Opening_Qty":"450", "Purchase_Qty":"", "Closing_Qty":"400"},
- {"Stock_Date":"Sep-19", "Code":8892.0, "Opening_Qty":"900", "Purchase_Qty":"", "Closing_Qty":"850"},
- {"Stock_Date":"Sep-19", "Code":8887.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Sep-19", "Code":8888.0, "Opening_Qty":"450", "Purchase_Qty":"", "Closing_Qty":"425"},
- {"Stock_Date":"Oct-19", "Code":8885.0, "Opening_Qty":"250", "Purchase_Qty":"", "Closing_Qty":"300"},
- {"Stock_Date":"Oct-19", "Code":8881.0, "Opening_Qty":"300", "Purchase_Qty":"", "Closing_Qty":"250"},
- {"Stock_Date":"Oct-19", "Code":8886.0, "Opening_Qty":"400", "Purchase_Qty":"", "Closing_Qty":"400"},
- {"Stock_Date":"Oct-19", "Code":8892.0, "Opening_Qty":"850", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":8887.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Oct-19", "Code":8888.0, "Opening_Qty":"425", "Purchase_Qty":"", "Closing_Qty":"400"},
- {"Stock_Date":"Nov-19", "Code":8885.0, "Opening_Qty":"300", "Purchase_Qty":"", "Closing_Qty":"350"},
- {"Stock_Date":"Nov-19", "Code":8881.0, "Opening_Qty":"250", "Purchase_Qty":"", "Closing_Qty":"250"},
- {"Stock_Date":"Nov-19", "Code":8886.0, "Opening_Qty":"400", "Purchase_Qty":"", "Closing_Qty":"350"},
- {"Stock_Date":"Nov-19", "Code":8887.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Nov-19", "Code":8888.0, "Opening_Qty":"400", "Purchase_Qty":"", "Closing_Qty":"400"},
- {"Stock_Date":"Nov-19", "Code":8892.0, "Opening_Qty":"", "Purchase_Qty":"", "Closing_Qty":"550"},
- {"Stock_Date":"Nov-19", "Code":8882.0, "Opening_Qty":"", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Dec-19", "Code":8885.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":"350"},
- {"Stock_Date":"Dec-19", "Code":8881.0, "Opening_Qty":"250", "Purchase_Qty":"", "Closing_Qty":"250"},
- {"Stock_Date":"Dec-19", "Code":8886.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":"350"},
- {"Stock_Date":"Dec-19", "Code":8887.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Dec-19", "Code":8888.0, "Opening_Qty":"400", "Purchase_Qty":"", "Closing_Qty":"430"},
- {"Stock_Date":"Dec-19", "Code":8892.0, "Opening_Qty":"550", "Purchase_Qty":"", "Closing_Qty":"450"},
- {"Stock_Date":"Dec-19", "Code":8882.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":"200"},
- {"Stock_Date":"Jan-20", "Code":8885.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":"350"},
- {"Stock_Date":"Jan-20", "Code":8881.0, "Opening_Qty":"250", "Purchase_Qty":"", "Closing_Qty":"100"},
- {"Stock_Date":"Jan-20", "Code":8886.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":"350"},
- {"Stock_Date":"Jan-20", "Code":8887.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":"150"},
- {"Stock_Date":"Jan-20", "Code":8888.0, "Opening_Qty":"430", "Purchase_Qty":"", "Closing_Qty":"420"},
- {"Stock_Date":"Jan-20", "Code":8892.0, "Opening_Qty":"450", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":8882.0, "Opening_Qty":"200", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":8885.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":8881.0, "Opening_Qty":"100", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":8886.0, "Opening_Qty":"350", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":8887.0, "Opening_Qty":"150", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":8888.0, "Opening_Qty":"420", "Purchase_Qty":"", "Closing_Qty":""}]
+[
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8887,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 250
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8886,
+        "Opening_Qty": 300,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 150
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8888,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 200,
+        "Closing_Qty": 500
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8881,
+        "Opening_Qty": 150,
+        "Purchase_Qty": 200,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8885,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 100,
+        "Closing_Qty": 300
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8882,
+        "Opening_Qty": 0,
+        "Purchase_Qty": 200,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8892,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 200,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": 8894.81,
+        "Opening_Qty": 0,
+        "Purchase_Qty": 100,
+        "Closing_Qty": 100
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8885,
+        "Opening_Qty": 300,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 250
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8881,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 300,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8888,
+        "Opening_Qty": 500,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8886,
+        "Opening_Qty": 150,
+        "Purchase_Qty": 300,
+        "Closing_Qty": 450
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8882,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 300,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8894.81,
+        "Opening_Qty": 100,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8892,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 600,
+        "Closing_Qty": 600
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": 8887,
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": 8885,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 250
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": 8881,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": 8886,
+        "Opening_Qty": 450,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 450
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": 8892,
+        "Opening_Qty": 600,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 900
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": 8887,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": 8888,
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 450
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": 8885,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 250
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": 8881,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 300
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": 8886,
+        "Opening_Qty": 450,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 400
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": 8892,
+        "Opening_Qty": 900,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 850
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": 8887,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": 8888,
+        "Opening_Qty": 450,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 425
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": 8885,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 300
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": 8881,
+        "Opening_Qty": 300,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 250
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": 8886,
+        "Opening_Qty": 400,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 400
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": 8892,
+        "Opening_Qty": 850,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": 8887,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": 8888,
+        "Opening_Qty": 425,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 400
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": 8885,
+        "Opening_Qty": 300,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": 8881,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 250
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": 8886,
+        "Opening_Qty": 400,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": 8887,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": 8888,
+        "Opening_Qty": 400,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 400
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": 8892,
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 550
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": 8882,
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": 8885,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": 8881,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 250
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": 8886,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": 8887,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": 8888,
+        "Opening_Qty": 400,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 430
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": 8892,
+        "Opening_Qty": 550,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 450
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": 8882,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 200
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": 8885,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": 8881,
+        "Opening_Qty": 250,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 100
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": 8886,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 350
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": 8887,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 150
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": 8888,
+        "Opening_Qty": 430,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 420
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": 8892,
+        "Opening_Qty": 450,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": 8882,
+        "Opening_Qty": 200,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": 8885,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": 8881,
+        "Opening_Qty": 100,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": 8886,
+        "Opening_Qty": 350,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": 8887,
+        "Opening_Qty": 150,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": 8888,
+        "Opening_Qty": 420,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    }
+]

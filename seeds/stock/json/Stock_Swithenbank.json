@@ -1,2 +1,9 @@
-[{"Stock_Date":"Jun-19", "Code":"43817", "Opening_Qty":"1", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"", "Code":"", "Opening_Qty":"", "Purchase_Qty":"", "Closing_Qty":""}]
+[
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "43817",
+        "Opening_Qty": "1",
+        "Purchase_Qty": "0",
+        "Closing_Qty": "1"
+    }
+]

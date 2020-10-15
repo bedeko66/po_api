@@ -1,96 +1,674 @@
-[{"Stock_Date":"Jun-19", "Code":"e88", "Opening_Qty":"2", "Purchase_Qty":"265", "Closing_Qty":""},
- {"Stock_Date":"Jun-19", "Code":"trchomo", "Opening_Qty":"5", "Purchase_Qty":"", "Closing_Qty":"1"},
- {"Stock_Date":"Jun-19", "Code":"01SAL5K06", "Opening_Qty":"8", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Jun-19", "Code":"05SALD00K0Aca", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Jun-19", "Code":"NN15FT", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Jun-19", "Code":"NN15TCM ", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Jul-19", "Code":"trchomo", "Opening_Qty":"1", "Purchase_Qty":"", "Closing_Qty":"1"},
- {"Stock_Date":"Jul-19", "Code":"chomog", "Opening_Qty":"", "Purchase_Qty":"16", "Closing_Qty":""},
- {"Stock_Date":"Jul-19", "Code":"cbombe", "Opening_Qty":"", "Purchase_Qty":"96", "Closing_Qty":"88"},
- {"Stock_Date":"Jul-19", "Code":"scones", "Opening_Qty":"", "Purchase_Qty":"", "Closing_Qty":"37"},
- {"Stock_Date":"Aug-19", "Code":"trchomo", "Opening_Qty":"1", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Aug-19", "Code":"cbombe", "Opening_Qty":"88", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Aug-19", "Code":"scones", "Opening_Qty":"37", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Aug-19", "Code":"NN14CC", "Opening_Qty":"", "Purchase_Qty":"7", "Closing_Qty":""},
- {"Stock_Date":"Aug-19", "Code":"assbp", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Aug-19", "Code":"assfrt", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Aug-19", "Code":"asspsm", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Aug-19", "Code":"asstcm", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Sep-19", "Code":"NN14CC", "Opening_Qty":"", "Purchase_Qty":"15", "Closing_Qty":""},
- {"Stock_Date":"Sep-19", "Code":"asstcm", "Opening_Qty":"", "Purchase_Qty":"15", "Closing_Qty":""},
- {"Stock_Date":"Sep-19", "Code":"scones", "Opening_Qty":"", "Purchase_Qty":"396", "Closing_Qty":""},
- {"Stock_Date":"Sep-19", "Code":"chomog", "Opening_Qty":"", "Purchase_Qty":"23", "Closing_Qty":"2"},
- {"Stock_Date":"Sep-19", "Code":"trchomo", "Opening_Qty":"", "Purchase_Qty":"32", "Closing_Qty":""},
- {"Stock_Date":"Sep-19", "Code":"01S40102", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":"1"},
- {"Stock_Date":"Sep-19", "Code":"cbombe", "Opening_Qty":"", "Purchase_Qty":"", "Closing_Qty":"5"},
- {"Stock_Date":"Oct-19", "Code":"chomog", "Opening_Qty":"2", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"01S40102", "Opening_Qty":"1", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"cbombe", "Opening_Qty":"5", "Purchase_Qty":"34", "Closing_Qty":"20"},
- {"Stock_Date":"Oct-19", "Code":"trchomo", "Opening_Qty":"", "Purchase_Qty":"52", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"rberrychcake", "Opening_Qty":"", "Purchase_Qty":"20", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"indbp", "Opening_Qty":"", "Purchase_Qty":"0", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"bpie", "Opening_Qty":"", "Purchase_Qty":"25", "Closing_Qty":"5"},
- {"Stock_Date":"Oct-19", "Code":"pecpie", "Opening_Qty":"", "Purchase_Qty":"12", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"astir", "Opening_Qty":"", "Purchase_Qty":"12", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"astruf", "Opening_Qty":"", "Purchase_Qty":"12", "Closing_Qty":""},
- {"Stock_Date":"Oct-19", "Code":"05SLSMR010201", "Opening_Qty":"", "Purchase_Qty":"5", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"cbombe", "Opening_Qty":"20", "Purchase_Qty":"310", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"bpie", "Opening_Qty":"5", "Purchase_Qty":"13", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"p pie", "Opening_Qty":"", "Purchase_Qty":"15", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"asstcm", "Opening_Qty":"", "Purchase_Qty":"93.92", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"bakewell", "Opening_Qty":"", "Purchase_Qty":"2", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"traycarrot", "Opening_Qty":"", "Purchase_Qty":"2", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"traylemond", "Opening_Qty":"", "Purchase_Qty":"2", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"rberrychcake", "Opening_Qty":"", "Purchase_Qty":"23", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"assfrt", "Opening_Qty":"", "Purchase_Qty":"80", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"tchutney", "Opening_Qty":"", "Purchase_Qty":"90", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"05MACF00K0A", "Opening_Qty":"", "Purchase_Qty":"90", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"apleTart", "Opening_Qty":"", "Purchase_Qty":"48", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"trchomo", "Opening_Qty":"", "Purchase_Qty":"3", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"asspsm", "Opening_Qty":"", "Purchase_Qty":"6", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"astir", "Opening_Qty":"", "Purchase_Qty":"6", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"05SALD00K0Aca", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"e105", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"NN14CC", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"mGateau", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":""},
- {"Stock_Date":"Nov-19", "Code":"05SLSMR010201", "Opening_Qty":"", "Purchase_Qty":"20", "Closing_Qty":"3"},
- {"Stock_Date":"Dec-19", "Code":"05SLSMR010201", "Opening_Qty":"3", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"cbombe", "Opening_Qty":"", "Purchase_Qty":"194", "Closing_Qty":"12"},
- {"Stock_Date":"Dec-19", "Code":"apleTart", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"indbp", "Opening_Qty":"", "Purchase_Qty":"0", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"bpie", "Opening_Qty":"", "Purchase_Qty":"8", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"sconesmini", "Opening_Qty":"", "Purchase_Qty":"80", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"01SAL5K06", "Opening_Qty":"", "Purchase_Qty":"570", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"assfrt", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"asspsm", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"sushi1", "Opening_Qty":"", "Purchase_Qty":"1", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"sushi2", "Opening_Qty":"", "Purchase_Qty":"1", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"canape", "Opening_Qty":"", "Purchase_Qty":"1", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"chcocoffec", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":""},
- {"Stock_Date":"Dec-19", "Code":"as_straw", "Opening_Qty":"", "Purchase_Qty":"10", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"cbombe", "Opening_Qty":"12", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"assbp", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"assfrt", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"asspsm", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"chcocoffec", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"astir", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"assrptart", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"asstrcake", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"sushi1", "Opening_Qty":"", "Purchase_Qty":"1", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"sushi2", "Opening_Qty":"", "Purchase_Qty":"1", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"JJ2CLPT                       ", "Opening_Qty":"", "Purchase_Qty":"170", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"JJ2CLSS                       ", "Opening_Qty":"", "Purchase_Qty":"170", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"JJ2CLQE                       ", "Opening_Qty":"", "Purchase_Qty":"170", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"JJ15RM", "Opening_Qty":"", "Purchase_Qty":"215", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"JJ14RCC", "Opening_Qty":"", "Purchase_Qty":"16", "Closing_Qty":""},
- {"Stock_Date":"Jan-20", "Code":"JJ15CCHB", "Opening_Qty":"", "Purchase_Qty":"15", "Closing_Qty":"15"},
- {"Stock_Date":"Jan-20", "Code":"JJ14TCM", "Opening_Qty":"", "Purchase_Qty":"13", "Closing_Qty":"7"},
- {"Stock_Date":"Feb-20", "Code":"JJ15CCHB", "Opening_Qty":"15", "Purchase_Qty":"", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ14TCM", "Opening_Qty":"7", "Purchase_Qty":"12", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ14RCC", "Opening_Qty":"", "Purchase_Qty":"7", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ14AP", "Opening_Qty":"", "Purchase_Qty":"7", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ14PP", "Opening_Qty":"", "Purchase_Qty":"7", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ2CLQE                       ", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ2CLSS                       ", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ2CSHSC                      ", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""},
- {"Stock_Date":"Feb-20", "Code":"JJ2CSHWM                      ", "Opening_Qty":"", "Purchase_Qty":"50", "Closing_Qty":""}]
+[
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "e88",
+        "Opening_Qty": 2,
+        "Purchase_Qty": 265,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "trchomo",
+        "Opening_Qty": 5,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 1
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "01SAL5K06",
+        "Opening_Qty": 8,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "05SALD00K0Aca",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "NN15FT",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jun-19",
+        "Item_Code": "NN15TCM ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": "trchomo",
+        "Opening_Qty": 1,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 1
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": "chomog",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 16,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": "cbombe",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 96,
+        "Closing_Qty": 88
+    },
+    {
+        "Stock_Date": "Jul-19",
+        "Item_Code": "scones",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 37
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "trchomo",
+        "Opening_Qty": 1,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "cbombe",
+        "Opening_Qty": 88,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "scones",
+        "Opening_Qty": 37,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "NN14CC",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 7,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "assbp",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "assfrt",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "asspsm",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Aug-19",
+        "Item_Code": "asstcm",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "NN14CC",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 15,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "asstcm",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 15,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "scones",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 396,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "chomog",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 23,
+        "Closing_Qty": 2
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "trchomo",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 32,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "01S40102",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 1
+    },
+    {
+        "Stock_Date": "Sep-19",
+        "Item_Code": "cbombe",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 5
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "chomog",
+        "Opening_Qty": 2,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "01S40102",
+        "Opening_Qty": 1,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "cbombe",
+        "Opening_Qty": 5,
+        "Purchase_Qty": 34,
+        "Closing_Qty": 20
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "trchomo",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 52,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "rberrychcake",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 20,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "indbp",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "bpie",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 25,
+        "Closing_Qty": 5
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "pecpie",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 12,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "astir",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 12,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "astruf",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 12,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Oct-19",
+        "Item_Code": "05SLSMR010201",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 5,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "cbombe",
+        "Opening_Qty": 20,
+        "Purchase_Qty": 310,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "bpie",
+        "Opening_Qty": 5,
+        "Purchase_Qty": 13,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "p pie",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 15,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "asstcm",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 93.92,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "bakewell",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 2,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "traycarrot",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 2,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "traylemond",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 2,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "rberrychcake",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 23,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "assfrt",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 80,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "tchutney",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 90,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "05MACF00K0A",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 90,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "apleTart",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 48,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "trchomo",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 3,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "asspsm",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 6,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "astir",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 6,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "05SALD00K0Aca",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "e105",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "NN14CC",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "mGateau",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Nov-19",
+        "Item_Code": "05SLSMR010201",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 20,
+        "Closing_Qty": 3
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "05SLSMR010201",
+        "Opening_Qty": 3,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "cbombe",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 194,
+        "Closing_Qty": 12
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "apleTart",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "indbp",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "bpie",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 8,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "sconesmini",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 80,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "01SAL5K06",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 570,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "assfrt",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "asspsm",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "sushi1",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 1,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "sushi2",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 1,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "canape",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 1,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "chcocoffec",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Dec-19",
+        "Item_Code": "as_straw",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 10,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "cbombe",
+        "Opening_Qty": 12,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "assbp",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "assfrt",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "asspsm",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "chcocoffec",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "astir",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "assrptart",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "asstrcake",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "sushi1",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 1,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "sushi2",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 1,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "JJ2CLPT                       ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 170,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "JJ2CLSS                       ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 170,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "JJ2CLQE                       ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 170,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "JJ15RM",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 215,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "JJ14RCC",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 16,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "JJ15CCHB",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 15,
+        "Closing_Qty": 15
+    },
+    {
+        "Stock_Date": "Jan-20",
+        "Item_Code": "JJ14TCM",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 13,
+        "Closing_Qty": 7
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ15CCHB",
+        "Opening_Qty": 15,
+        "Purchase_Qty": 0,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ14TCM",
+        "Opening_Qty": 7,
+        "Purchase_Qty": 12,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ14RCC",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 7,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ14AP",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 7,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ14PP",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 7,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ2CLQE                       ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ2CLSS                       ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ2CSHSC                      ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    },
+    {
+        "Stock_Date": "Feb-20",
+        "Item_Code": "JJ2CSHWM                      ",
+        "Opening_Qty": 0,
+        "Purchase_Qty": 50,
+        "Closing_Qty": 0
+    }
+]
