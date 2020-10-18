@@ -24,7 +24,7 @@ const doInvoices_foodSeed = async () => {
 module.exports = {
     doInvoices_foodSeed
 }
-doInvoices_foodSeed();
+//doInvoices_foodSeed();
 
 
 

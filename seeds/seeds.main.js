@@ -17,4 +17,4 @@ const main_seed = async () => {
     }
 }
 
-//main_seed()
+main_seed()
