@@ -1,9 +1,9 @@
 const Suppliers = require('../../models/suppliers/food/Suppliers');
-const { getJsonFilesForSuppliers } = require('../helpers/seed.helpers');
+const { getJsonFilesForSeed } = require('../helpers/seed.helpers');
 
 const doSuppliersSeed = async () => {
     try {
-        let files = await getJsonFilesForSuppliers();
+        let files = await getJsonFilesForSeed('./seeds/suppliers/json');
         files.forEach(async (file) => {
             if (file.includes('json')) {
                 let fileName = file.split('.')[0]

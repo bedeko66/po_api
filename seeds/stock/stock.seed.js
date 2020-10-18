@@ -1,10 +1,10 @@
 const Stocks = require('../../models/stock/Stocks');
-const { getJsonFilesForStocks } = require('../helpers/seed.helpers');
+const { getJsonFilesForSeed } = require('../helpers/seed.helpers');
 
 
 const doStockSeed = async () => {
     try {
-        let files = await getJsonFilesForStocks();
+        let files = await getJsonFilesForSeed('./seeds/stock/json');
         files.forEach(async (file) => {
             if (file.includes('json')) {
                 let fileName = file.split('.')[0]

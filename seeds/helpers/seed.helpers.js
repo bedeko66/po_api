@@ -1,38 +1,29 @@
 const fs = require('fs');
 const fsPromises = fs.promises;
 
-async function getJsonFilesForSuppliers() {
+async function getJsonFilesForSeed(jsonFilePath) {
     try {
-        return await fsPromises.readdir('./seeds/suppliers/json');
+        return await fsPromises.readdir(jsonFilePath);
 
     } catch (err) {
         console.error('Error occured while reading directory!', err);
 
     }
 };
-async function getJsonFilesForStocks() {
-    try {
-        return await fsPromises.readdir('./seeds/stock/json');
 
-    } catch (err) {
-        console.error('Error occured while reading directory!', err);
-
-    }
-};
 module.exports = {
-    getJsonFilesForSuppliers,
-    getJsonFilesForStocks
+    getJsonFilesForSeed
 }
 
 function swapJsonFileData() {
     let newJsonData = '/Users/bedeko/Projects/ilec-pos-seq/seeds/helpers/Data.json'
-    let jsonData = require('../stock/json/Stock_Tschibo.json');
+    let jsonData = require('../invoices/food/json/invoices_food.json');
 
     let content = jsonData.map(d => {
-        if (Number.isInteger(d.Item_Code)) {
-            let code = String(d.Item_Code)
-            d.Item_Code = code
-            console.log('code swapped');
+        if (!Number.isInteger(d.Other)) {
+            let qty = Number(d.Other)
+            d.Other = qty
+            console.log('qty swapped');
         }
         // if (!Number.isInteger(d.Purchase_Qty)) {
         //     let opening = Number(d.Purchase_Qty)
